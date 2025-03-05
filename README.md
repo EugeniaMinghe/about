@@ -22,7 +22,7 @@ Mi formación y experiencia como científica me ha permitido:
   <img src="https://img.shields.io/badge/CorelDRAW-009F00?style=for-the-badge&logo=coreldraw&logoColor=white" />
 </p>
 
-- 🔭 Actualmente estoy trabajando **expandiendo mi eprfil profesional como Data Analyst aplicando herramientas para:**
+## 🔭 Actualmente estoy trabajando en expandir mi eprfil profesional como Data Analyst aplicando herramientas para:
 📊 Visualización de datos y dashboards interactivos.  
 🐍Análisis de datos y automatización.  
 🗄️ Manipulación y extracción de datos.  
@@ -38,7 +38,7 @@ Mi formación y experiencia como científica me ha permitido:
 ## 🌍 Explorando nuevas oportunidades  
 Mi objetivo es combinar mi experiencia en ciencias naturales con mis habilidades en **data analytics**, impulsando soluciones basadas en datos en sectores como investigación, educación, negocios y tecnología.  
 
-**<h2 align="center"> 🔗 Conéctate conmigo: </h2>
+<h2 align="center"> 🔗 Conéctate conmigo: </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/eugenia-minghetti-017271280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
