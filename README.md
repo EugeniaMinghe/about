@@ -1,8 +1,8 @@
-# about
+# Información 
 <h1 align="center">👋 Holis 👋, Soy Eugenia Minghetti</h1>
 <h3 align="center">Bióloga, descubriendo una nueva pasión por el análisis de datos❤️</h3>
 
-<h3 align="center"> Un poco más acerca de mí:</h3>
+<h4 align="center"> Un poco más acerca de mí:</h4>
 -🎓 Soy licenciada en Biología y doctora en Ciencias Naturales (UNLP), actualmente estudiante de Data Analyst. Me he especializado en la Entomología y tengo varios años de experiencia en investigación científica. 
 -Soy una apasionada del análisis de datos que busca transformar información en estrategias accionables y generar insights para la toma de decisiones. 
 -Mi formación y experiencia como científica me ha permitido gestionar adecuadamente proyectos, trabajar en equipo y lograr una excelente comunicación de los resultados obtenidos, la cual complemento con el uso de herramientas tecnológicas avanzadas.  
